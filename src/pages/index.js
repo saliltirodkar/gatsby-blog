@@ -7,7 +7,7 @@ const IndexPage = () => {
   return (
     <main>
       <Layout pageTitle="Home Page">
-        <h1>Welcome to my Gatsby website</h1>
+        <h1>Welcome to my website</h1>
         <StaticImage
           alt="Clifford, a reddish-brown pitbull, dozing in a bean bag chair"
           src="../images/1.jpg"
